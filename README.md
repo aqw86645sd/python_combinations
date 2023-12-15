@@ -1,0 +1,2 @@
+# public_python_combinations
+算出長度為n的組合數量
